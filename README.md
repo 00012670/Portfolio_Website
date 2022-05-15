@@ -2,4 +2,4 @@
 
 ## This website contains minor information about me.
 
-hosted link --> https://00012670.github.io/Portfolio-Website/   
+hosted link -->  https://00012670.github.io/Portfolio_Website/
